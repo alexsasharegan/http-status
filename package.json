@@ -1,6 +1,6 @@
 {
     "name": "@alexsasharegan/http-status",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "description": "HTTP Status codes as constants and a lookup map (ESM)",
     "main": "index.js",
     "scripts": {
