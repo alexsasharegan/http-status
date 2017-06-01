@@ -1,0 +1,24 @@
+{
+  "name": "http-status",
+  "version": "1.0.0",
+  "description": "HTTP Status codes as constants and a lookup map (ESM)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alexsasharegan/http-status.git"
+  },
+  "keywords": [
+    "http",
+    "status",
+    "rest"
+  ],
+  "author": "Alex Regan <alex.joseph.regan@gmail.com> (https://github.com/alexsasharegan)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alexsasharegan/http-status/issues"
+  },
+  "homepage": "https://github.com/alexsasharegan/http-status#readme"
+}
