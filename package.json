@@ -4,7 +4,7 @@
     "description": "HTTP Status codes as constants and a lookup map (ESM)",
     "main": "index.js",
     "scripts": {
-        "publish": "npm publish --access=public",
+        "publish-public": "npm publish --access=public",
         "patch": "npm version patch",
         "minor": "npm version minor",
         "major": "npm version major",
